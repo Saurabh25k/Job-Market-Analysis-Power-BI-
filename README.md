@@ -1,2 +1,3 @@
-# Job-Market-Analysis-Power-BI-
-Interactive Power BI dashboard analyzing job market trends, salary distribution, hiring demand, required skills, and location-based opportunities using real-world datasets.
+The Job Market Analysis Dashboard is an interactive Power BI project designed to analyze hiring trends, salary distributions, in-demand skills, job roles, and location-wise employment opportunities.
+
+The objective of this project is to transform raw job market data into meaningful business insights that can help job seekers, recruiters, and organizations understand current employment trends.
